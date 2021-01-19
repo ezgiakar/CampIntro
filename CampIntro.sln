@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "De
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork1", "HomeWork1\HomeWork1.csproj", "{17122BF4-3D30-47CF-BA9B-38BE511D7DD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork2", "HomeWork2\HomeWork2.csproj", "{E96EC0AB-5F75-47C8-88ED-90DACC6ED511}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork2", "HomeWork2\HomeWork2.csproj", "{E96EC0AB-5F75-47C8-88ED-90DACC6ED511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMethodDemo", "ClassMethodDemo\ClassMethodDemo.csproj", "{ABBC2206-A956-4AFD-82BC-00937C4FE530}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{E96EC0AB-5F75-47C8-88ED-90DACC6ED511}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E96EC0AB-5F75-47C8-88ED-90DACC6ED511}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E96EC0AB-5F75-47C8-88ED-90DACC6ED511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABBC2206-A956-4AFD-82BC-00937C4FE530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABBC2206-A956-4AFD-82BC-00937C4FE530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABBC2206-A956-4AFD-82BC-00937C4FE530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABBC2206-A956-4AFD-82BC-00937C4FE530}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
