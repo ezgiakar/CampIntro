@@ -53,6 +53,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces2", "Interfaces2\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{F5DC8707-9511-46AA-9A30-68F7F74563BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attributes", "Attributes\Attributes.csproj", "{7F8CF7B3-35E5-469E-8912-3AA10E0DC554}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflection", "Reflection\Reflection.csproj", "{9D92B970-4043-40CE-9639-9C49C55D5789}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +163,14 @@ Global
 		{F5DC8707-9511-46AA-9A30-68F7F74563BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5DC8707-9511-46AA-9A30-68F7F74563BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5DC8707-9511-46AA-9A30-68F7F74563BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F8CF7B3-35E5-469E-8912-3AA10E0DC554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F8CF7B3-35E5-469E-8912-3AA10E0DC554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F8CF7B3-35E5-469E-8912-3AA10E0DC554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F8CF7B3-35E5-469E-8912-3AA10E0DC554}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D92B970-4043-40CE-9639-9C49C55D5789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D92B970-4043-40CE-9639-9C49C55D5789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D92B970-4043-40CE-9639-9C49C55D5789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D92B970-4043-40CE-9639-9C49C55D5789}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
